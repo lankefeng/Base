@@ -1,7 +1,7 @@
 ﻿
 // 找匹配Dlg.cpp: 实现文件
 // try for testing
-
+//1234567
 #include "pch.h"
 #include "framework.h"
 #include "找匹配.h"
