@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "找匹配", "找匹配.vcxproj", "{66206FF2-9A14-464E-9458-4B6FC1A95A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Debug|x64.ActiveCfg = Debug|x64
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Debug|x64.Build.0 = Debug|x64
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Debug|x86.Build.0 = Debug|Win32
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Release|x64.ActiveCfg = Release|x64
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Release|x64.Build.0 = Release|x64
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Release|x86.ActiveCfg = Release|Win32
+		{66206FF2-9A14-464E-9458-4B6FC1A95A8F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71B3B92D-1A5B-49CE-B032-F6491351031E}
+	EndGlobalSection
+EndGlobal
